@@ -35,9 +35,8 @@ This project helps businesses:
 * Presenting financial insights through Excel reports.
   
 ### 📬 Contact
-
-**Email:** lakshmithirupathamma783@gmail.com
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lakshmibathula/)
+**Email:** <a href="mailto:lakshmithirupathamma783@gmail.com">lakshmithirupathamma783@gmail.com</a><br>
+**LinkedIn:** <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 
 
 
