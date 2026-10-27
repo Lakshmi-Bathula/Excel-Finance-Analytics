@@ -37,7 +37,7 @@ This project helps businesses:
 ### 📬 Contact
 
 **Email:** lakshmithirupathamma783@gmail.com
-**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/lakshmibathula/)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lakshmibathula/)
 
 
 
