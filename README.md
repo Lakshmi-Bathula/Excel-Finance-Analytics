@@ -21,14 +21,14 @@ This project helps businesses:
 * Identify changes in Gross Margin %.
 * Make better business decisions using financial data.
 
-## 🛠️ Tools & Skills Applied
+### 🛠️ Tools & Skills Applied
 * Microsoft Excel
 * Pivot Tables and Filters
 * Power Pivot
 * Financial KPI Analysis
 * P&L Reporting
   
-## 🧠 What I Learned
+### 🧠 What I Learned
 * Analyzing financial performance across fiscal years.
 * Understanding Net Sales, COGS, Gross Margin, and GM%.
 * Comparing financial performance across different markets.
